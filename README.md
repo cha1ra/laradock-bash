@@ -74,7 +74,7 @@ If you didin't install docker, it also stop.
 6. Build Docker containers...
 
 ------------ERROR!------------
-Docker doesn't exists on your computer! Please install Docker first
+Docker doesn't exist on your computer! Please install Docker first
 Stop this operation.
 ------------------------------
 ```
