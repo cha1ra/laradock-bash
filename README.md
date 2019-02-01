@@ -1,5 +1,8 @@
 # LARADOCK CREATOR
 
+※日本語の説明についてはQiitaに掲載してあります。
+https://qiita.com/don-bu-rakko/ee0dd2b26eeb232f0d3a
+
 ## Overview
 
 You can create Laradock environment on your PC by typing only **ONE** shell command!  
