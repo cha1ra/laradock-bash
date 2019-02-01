@@ -43,6 +43,8 @@ Build Laravel env in 10 steps
 [!] Put your Project Name:
 ```
   
+After that, you will be able to access http://localhost .
+  
   
 ### Validation
   
@@ -88,3 +90,8 @@ Stop this operation.
 - Mac OS 10.14
 - Git installed
 - Docker for mac installed
+
+## Container
+- nginx
+- mysql
+- phpmyadmin
