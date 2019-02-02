@@ -1,7 +1,7 @@
 # LARADOCK CREATOR
 
 ※日本語の説明についてはQiitaに掲載してあります。  
-https://qiita.com/don-bu-rakko/ee0dd2b26eeb232f0d3a  
+https://qiita.com/don-bu-rakko/items/1919f1f5ca14b5b43c00
   
   
 ## Overview
@@ -30,7 +30,7 @@ cd laradock-bash
 bash laradock-creator.sh sample-app
 ```
 
-You can also choose your project name on process.
+You can also type your Project Name during process.
 
 ```shell
 $ bash laradock-creator.sh
@@ -52,7 +52,7 @@ After that, you will be able to access http://localhost .
   
 ### Validation
   
-If directory already exists, you cannnot use this scripts.
+If directory already exists, you cannot use this scripts.
   
 ```shell
 ~/Sites/bash/laradock-bash master* 7s
