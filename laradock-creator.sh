@@ -110,7 +110,7 @@ echo -e "\033[0;35mSuccess!\033[0;39m"
 echo ""
 
 echo "9. Overwrite .env file in Laradock..."
-sed -i -e "s/APP_CODE_PATH_HOST=..\//APP_CODE_PATH_HOST=..\/my-first-app\//" .env
+sed -i -e "s/APP_CODE_PATH_HOST=..\//APP_CODE_PATH_HOST=..\/src\//" .env
 echo -e "\033[0;35mSuccess!\033[0;39m"
 echo ""
 
